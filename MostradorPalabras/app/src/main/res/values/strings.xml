@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MostradorPalabras</string>
+    <string name="empty_not_saved">Palabra no agregada, ¡¡ no se aceptan Campos Vacios.!!</string>
+</resources>
